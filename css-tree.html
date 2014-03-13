@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Simple cluster Demo</title>
+    <script type="text/javascript" src="d3/d3.js"></script>
+    <script type="text/javascript" src="d3/d3.layout.js"></script>
+<style>
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 4.5px;
+}
+</style>
+
+  </head>
+  <body>
+
+    <div id="viz"></div>
+
+    <script type="text/javascript">
+
+      //JSON object with the data
+      var clusterData = {
+ "name": "CSS Properties",
+ "children": [{
+    "name": "borders",
+    "children": [{
+        "name": "Border After Properties",
+        "children": [{
+          "name": "border-after", "size": 1000},
+          {"name": "border-after-color", "size": 1000},
+          {"name": "border-after-style", "size": 1000},
+          {"name": "border-after-width", "size": 1000}]
+      },
+
+      {
+        "name": "Border Before Properties",
+        "children": [{
+          "name": "border-before", "size": 1000},
+          {"name": "border-before-color", "size": 1000},
+          {"name": "border-before-style", "size": 1000},
+          {"name": "border-before-width", "size": 1000}]
+      },
+
+      {
+        "name": "Border Bottom Properties",
+        "children": [{
+          "name": "border-bottom-color", "size": 1000},
+          {"name": "border-bottom-colors", "size": 1000},
+          {"name": "border-bottom-left-radius", "size": 1000},
+          {"name": "border-bottom-right-radius", "size": 1000},
+          {"name": "border-bottom-style", "size": 1000},
+          {"name": "border-bottom-width", "size": 1000}]
+      },
+
+      {
+        "name": "Border End Properties",
+        "children": [{
+          "name": "border-end", "size": 1000},
+          {"name": "border-end-color", "size": 1000},
+          {"name": "border-end-style", "size": 1000},
+          {"name": "border-end-width", "size": 1000}]
+      },
+
+      {
+        "name": "Border Image Properties",
+        "children": [{
+          "name": "border-image", "size": 1000},
+          {"name": "border-image-outset", "size": 1000},
+          {"name": "border-image-repeat", "size": 1000},
+          {"name": "border-image-slice", "size": 1000},
+          {"name": "border-image-source", "size": 1000},
+          {"name": "border-image-width", "size": 1000}]
+      },
+
+      {
+        "name": "Border Left Properties",
+        "children": [{
+          "name": "border-left", "size": 1000},
+          {"name": "border-left-color", "size": 1000},
+          {"name": "border-left-style", "size": 1000},
+          {"name": "border-left-width", "size": 1000}]
+      },
+
+      {
+        "name": "Border Right Properties",
+        "children": [{
+          "name": "border-right", "size": 1000},
+          {"name": "border-right-color", "size": 1000},
+          {"name": "border-right-style", "size": 1000},
+          {"name": "border-right-width", "size": 1000}]
+      },
+
+      {
+        "name": "Border Radius Properties",
+        "children": [{
+          "name": "border-radius", "size": 1000},
+          {"name": "border-radius-bottomleft", "size": 1000},
+          {"name": "border-radius-bottomright", "size": 1000},
+          {"name": "border-radius-topleft", "size": 1000},
+          {"name": "border-radius-topright", "size": 1000}]
+      },
+
+      {
+        "name": "Border Top Properties",
+        "children": [{
+          "name": "border-top", "size": 1000},
+          {"name": "border-top-color", "size": 1000},
+          {"name": "border-top-colors", "size": 1000},
+          {"name": "border-top-style", "size": 1000},
+          {"name": "border-top-left-radius", "size": 1000},
+          {"name": "border-top-right-radius", "size": 1000},
+          {"name": "border-top-width", "size": 1000}]
+      },
+
+      {
+        "name": "Border Start Properties",
+        "children": [{
+          "name": "border-start", "size": 1000},
+          {"name": "border-start-color", "size": 1000},
+          {"name": "border-start-style", "size": 1000},
+          {"name": "border-start-width", "size": 1000}]
+      },
+
+      {
+        "name": "Additional Border Properties",
+        "children": [{
+          "name": "border", "size": 1000},
+          {"name": "border-style", "size": 1000},
+          {"name": "border-horizontal-spacing", "size": 1000},
+          {"name": "border-fit", "size": 1000},
+          {"name": "border-collapse", "size": 1000},
+          {"name": "border-spacing", "size": 1000},
+          {"name": "border-width", "size": 1000},
+          {"name": "border-vertical-spacing", "size": 1000},
+          {"name": "border-color", "size": 1000}]
+      }
+      ]},
+
+     {
+        "name": "background",
+        "children": [{
+            "name": "General Background Properties",
+            "children": [{
+              "name": "background", "size": 1000},
+              {"name": "background-attachment", "size": 1000},
+              {"name": "background-clip", "size": 1000},
+              {"name": "background-color", "size": 1000},
+              {"name": "background-composite", "size": 1000},
+              {"name": "background-image", "size": 1000},
+              {"name": "background-inline-policy", "size": 1000}]
+      },
+
+      {
+        "name": "Background Origin Properties",
+        "children": [{
+          "name": "background-origin", "size": 1000},
+          {"name": "background-origin-x", "size": 1000},
+          {"name": "background-origin-y", "size": 1000}]
+      },
+
+      {
+        "name": "Background position Properties",
+        "children": [{
+          "name": "background-position", "size": 1000},
+          {"name": "background-position-x", "size": 1000},
+          {"name": "background-position-y", "size": 1000}]
+      },
+
+      {
+        "name": "Background repeat Properties",
+        "children": [{
+          "name": "background-repeat", "size": 1000},
+          {"name": "background-repeat-x", "size": 1000},
+          {"name": "background-repeat-y", "size": 1000}]
+      }
+      ]},
+
+     {
+        "name": "font",
+        "children": [{
+            "name": "Font Properties",
+            "children": [{
+              "name": "font", "size": 1000},
+              {"name": "font-family", "size": 1000},
+              {"name": "font-feature-settings", "size": 1000},
+              {"name": "font-kerning", "size": 1000},
+              {"name": "font-language-override", "size": 1000},
+              {"name": "font-size", "size": 1000},
+              {"name": "font-size-adjust", "size": 1000},
+              {"name": "font-size-delta", "size": 1000},
+              {"name": "font-smoothing", "size": 1000},
+              {"name": "font-stretch", "size": 1000},
+              {"name": "font-style", "size": 1000},
+              {"name": "font-variant", "size": 1000},
+              {"name": "font-variant-ligatures", "size": 1000},
+              {"name": "font-weight", "size": 1000}]
+      }
+      ]},
+
+     {
+        "name": "animation",
+        "children": [{
+            "name": "General Animation Properties",
+            "children": [{
+              "name": "animation", "size": 1000},
+              {"name": "animation-delay", "size": 1000},
+              {"name": "animation-direction", "size": 1000},
+              {"name": "animation-duration", "size": 1000},
+              {"name": "animation-fill-mode", "size": 1000},
+              {"name": "animation-iteration-count", "size": 1000},
+              {"name": "animation-name", "size": 1000},
+              {"name": "animation-play-state", "size": 1000},
+              {"name": "animation-timing-function", "size": 1000}]
+      }
+      ]},
+
+     {
+        "name": "margin",
+        "children": [{
+            "name": "Margin Properties",
+            "children": [{
+              "name": "margin", "size": 1000},
+              {"name": "margin-after", "size": 1000},
+              {"name": "margin-after-collapse", "size": 1000},
+              {"name": "margin-before", "size": 1000},
+              {"name": "margin-before-collapse", "size": 1000},
+              {"name": "margin-bottom", "size": 1000},
+              {"name": "margin-bottom-collapse", "size": 1000},
+              {"name": "margin-collapse", "size": 1000},
+              {"name": "margin-end", "size": 1000},
+              {"name": "margin-left", "size": 1000},
+              {"name": "margin-right", "size": 1000},
+              {"name": "margin-start", "size": 1000},
+              {"name": "margin-top", "size": 1000},
+              {"name": "margin-top-collapse", "size": 1000}]
+      }
+      ]},
+
+     {
+        "name": "overflow",
+        "children": [{
+            "name": "Overflow Properties",
+            "children": [{
+              "name": "overflow", "size": 1000},
+              {"name": "overflow-scrolling", "size": 1000},
+              {"name": "overflow-style", "size": 1000},
+              {"name": "overflow-wrap", "size": 1000},
+              {"name": "overflow-x", "size": 1000},
+              {"name": "overflow-y", "size": 1000}]
+      }
+      ]},
+
+     {
+        "name": "text",
+        "children": [{
+            "name": "Text Properties",
+            "children": [{
+              "name": "text-align", "size": 1000},
+              {"name": "text-align-last", "size": 1000},
+              {"name": "text-autospace", "size": 1000},
+              {"name": "text-blink", "size": 1000},
+              {"name": "text-combine", "size": 1000},
+              {"name": "text-decoration", "size": 1000},
+              {"name": "text-decoration-color", "size": 1000},
+              {"name": "text-decoration-line", "size": 1000},
+              {"name": "text-decoration-skip", "size": 1000},
+              {"name": "text-decoration-style", "size": 1000},
+              {"name": "text-decorations-in-effect", "size": 1000},
+              {"name": "text-emphasis", "size": 1000},
+              {"name": "text-emphasis-color", "size": 1000},
+              {"name": "text-emphasis-position", "size": 1000},
+              {"name": "text-emphasis-style", "size": 1000},
+              {"name": "text-fill-color", "size": 1000},
+              {"name": "text-indent", "size": 1000},
+              {"name": "text-justify", "size": 1000},
+              {"name": "text-kashida-space", "size": 1000},
+              {"name": "text-line-through", "size": 1000},
+              {"name": "text-line-through-color", "size": 1000},
+              {"name": "text-line-through-mode", "size": 1000},
+              {"name": "text-line-through-style", "size": 1000},
+              {"name": "text-line-through-width", "size": 1000},
+              {"name": "text-orientation", "size": 1000},
+              {"name": "text-overflow", "size": 1000},
+              {"name": "text-overflow-ellipsis", "size": 1000},
+              {"name": "text-overflow-mode", "size": 1000},
+              {"name": "text-overline", "size": 1000},
+              {"name": "text-overline-color", "size": 1000},
+              {"name": "text-overline-mode", "size": 1000},
+              {"name": "text-overline-style", "size": 1000},
+              {"name": "text-overline-width", "size": 1000},
+              {"name": "text-rendering", "size": 1000},
+              {"name": "text-security", "size": 1000},
+              {"name": "text-shadow", "size": 1000},
+              {"name": "text-size-adjust", "size": 1000},
+              {"name": "text-stroke", "size": 1000},
+              {"name": "text-stroke-color", "size": 1000},
+              {"name": "text-stroke-width", "size": 1000},
+              {"name": "text-transform", "size": 1000},
+              {"name": "text-underline", "size": 1000},
+              {"name": "text-underline-color", "size": 1000},
+              {"name": "text-underline-mode", "size": 1000},
+              {"name": "text-underline-position", "size": 1000},
+              {"name": "text-underline-style", "size": 1000},
+              {"name": "text-underline-width", "size": 1000}]
+      }
+      ]},
+
+
+      {
+     "name": "columns",
+     "children": [{
+        "name": "General Column Properties",
+        "children": [{
+          "name": "column-count", "size": 1000},
+          {"name": "column-fill", "size": 1000},
+          {"name": "column-gap", "size": 1000},
+          {"name": "column-rule", "size": 1000},
+          {"name": "column-span", "size": 1000},
+          {"name": "column-width", "size": 1000}]
+        },
+        {
+          "name": "Column Break Properties",
+          "children": [{
+            "name": "column-break-after", "size": 1000},
+            {"name": "column-break-before", "size": 1000},
+            {"name": "column-break-inside", "size": 1000}]
+      },
+      {
+          "name": "Additional Column Rule Properties",
+          "children": [{
+            "name": "column-rule-color", "size": 1000},
+            {"name": "column-rule-color", "size": 1000},
+            {"name": "column-rule-style", "size": 1000},
+            {"name": "column-rule-width", "size": 1000}]
+      },
+      {
+          "name": "General Column Properties",
+          "children": [{
+            "name": "column-progression", "size": 1000},
+            {"name": "column-axis", "size": 1000},
+            {"name": "columns", "size": 1000}]
+      }
+    ]}
+]}
+
+      // Create a svg canvas
+      var vis = d3.select("#viz").append("svg:svg")
+      .attr("width", 2400)
+      .attr("height", 1800)
+      .append("svg:g");
+      //.attr("transform", "translate(40, 0)"); // shift everything to the right
+
+      // Create a cluster "canvas"
+      var cluster = d3.layout.cluster()
+    .size([2400,1800]);
+
+      var diagonal = d3.svg.diagonal()
+      // change x and y (for the left to right cluster)
+      .projection(function(d) { return [d.y, d.x]; });
+
+      // Preparing the data for the cluster layout, convert data into an array of nodes
+      var nodes = cluster.nodes(clusterData);
+      // Create an array with all the links
+      var links = cluster.links(nodes);
+
+      console.log(clusterData)
+      console.log(nodes)
+      console.log(links)
+
+      var link = vis.selectAll("pathlink")
+      .data(links)
+      .enter().append("svg:path")
+      .attr("class", "link")
+      .attr("d", diagonal)
+
+      var node = vis.selectAll("g.node")
+      .data(nodes)
+      .enter().append("svg:g")
+      .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; })
+
+      // Add the dot at every node
+      node.append("svg:circle")
+      .attr("r", 3.5);
+
+      // place the name atribute left or right depending if children
+      node.append("svg:text")
+      .attr("dx", function(d) { return d.children ? -8 : 8; })
+      .attr("dy", 3)
+      .attr("text-anchor", function(d) { return d.children ? "end" : "start"; })
+      .text(function(d) { return d.name; })
+
+    </script>
+  </body>
+</html>
