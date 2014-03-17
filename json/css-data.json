@@ -382,31 +382,6 @@
             ]
         },
         {
-            "name": "Break",
-            "children": [
-                {
-                    "size": 1000,
-                    "name": "break-after",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/break-after"
-                },
-                {
-                    "size": 1000,
-                    "name": "break-before",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/break-before"
-                },
-                {
-                    "size": 1000,
-                    "name": "break-inside",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/break-inside"
-                },
-                {
-                    "size": 1000,
-                    "name": "caption-side",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/caption-side"
-                }
-            ]
-        },
-        {
             "name": "clip",
             "children": [
                 {
@@ -1137,8 +1112,33 @@
             ]
         },
         {
-            "name": "Padding",
+            "name": "Margins and Padding",
             "children": [
+                {
+                    "size": 1000,
+                    "name": "margin",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/margin"
+                },
+                {
+                    "size": 1000,
+                    "name": "margin-bottom",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/margin-bottom"
+                },
+                {
+                    "size": 1000,
+                    "name": "margin-left",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/margin-left"
+                },
+                {
+                    "size": 1000,
+                    "name": "margin-right",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/margin-right"
+                },
+                {
+                    "size": 1000,
+                    "name": "margin-top",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/margin-top"
+                },
                 {
                     "size": 1000,
                     "name": "padding",
@@ -1240,229 +1240,274 @@
             "name": "Text",
             "children": [
                 {
-                    "size": 1000,
-                    "name": "text-align",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-align"
+                    "name": "Text Overflow",
+                    "children": [
+                        {
+                            "size": 1000,
+                            "name": "text-overflow",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-overflow"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-overflow-ellipsis",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-overflow-ellipsis"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-overflow-mode",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-overflow-mode"
+                        }
+                    ]
                 },
                 {
-                    "size": 1000,
-                    "name": "text-align-last",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-align-last"
+                    "name": "Text Overline",
+                    "children": [
+                        {
+                            "size": 1000,
+                            "name": "text-overline",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-overline"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-overline-color",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-overline-color"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-overline-mode",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-overline-mode"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-overline-style",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-overline-style"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-overline-width",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-overline-width"
+                        }
+                    ]
                 },
                 {
-                    "size": 1000,
-                    "name": "text-autospace",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-autospace"
+                    "name": "Text Underline",
+                    "children": [
+                        {
+                            "size": 1000,
+                            "name": "text-underline",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-underline"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-underline-position",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-underline-position"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-underline-style",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-underline-style"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-underline-width",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-underline-width"
+                        }
+                    ]
                 },
                 {
-                    "size": 1000,
-                    "name": "text-decoration",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration"
+                    "name": "Text Align",
+                    "children": [
+                        {
+                            "size": 1000,
+                            "name": "text-align",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-align"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-align-last",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-align-last"
+                        }
+                    ]
                 },
                 {
-                    "size": 1000,
-                    "name": "text-decoration-blink",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-blink"
+                    "name": "Text Decoration",
+                    "children": [
+                        {
+                            "size": 1000,
+                            "name": "text-decoration",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-decoration-blink",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-blink"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-decoration-color",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-color"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-decoration-line",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-line"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-decoration-line-through",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-line-through"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-decoration-none",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-none"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-decoration-overline",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-overline"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-decoration-skip",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-skip"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-decoration-style",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-style"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-decoration-underline",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-underline"
+                        }
+                    ]
                 },
                 {
-                    "size": 1000,
-                    "name": "text-decoration-color",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-color"
+                    "name": "Text Justify",
+                    "children": [
+                        {
+                            "size": 1000,
+                            "name": "text-justify",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-justify"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-justify-trim",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-justify-trim"
+                        }
+                    ]
                 },
                 {
-                    "size": 1000,
-                    "name": "text-decoration-line",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-line"
+                    "name": "Unicode",
+                    "children": [
+                        {
+                            "size": 1000,
+                            "name": "unicode-bidi",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/unicode-bidi"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "unicode-range",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/unicode-range"
+                        }
+                    ]
                 },
                 {
-                    "size": 1000,
-                    "name": "text-decoration-line-through",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-line-through"
+                    "name": "Text Emphasis",
+                    "children": [
+                        {
+                            "size": 1000,
+                            "name": "text-emphasis",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-emphasis"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-emphasis-color",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-emphasis-color"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-emphasis-style",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-emphasis-style"
+                        }
+                    ]
                 },
                 {
-                    "size": 1000,
-                    "name": "text-decoration-none",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-none"
+                    "name": "Line Through",
+                    "children": [
+                        {
+                            "size": 1000,
+                            "name": "text-line-through",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-line-through"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-line-through-color",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-line-through-color"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-line-through-mode",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-line-through-mode"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-line-through-style",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-line-through-style"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-line-through-width",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-line-through-width"
+                        }
+                    ]
                 },
                 {
-                    "size": 1000,
-                    "name": "text-decoration-overline",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-overline"
-                },
-                {
-                    "size": 1000,
-                    "name": "text-decoration-skip",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-skip"
-                },
-                {
-                    "size": 1000,
-                    "name": "text-decoration-style",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-style"
-                },
-                {
-                    "size": 1000,
-                    "name": "text-decoration-underline",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-underline"
-                },
-                {
-                    "size": 1000,
-                    "name": "text-emphasis",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-emphasis"
-                },
-                {
-                    "size": 1000,
-                    "name": "text-emphasis-color",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-emphasis-color"
-                },
-                {
-                    "size": 1000,
-                    "name": "text-emphasis-style",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-emphasis-style"
-                },
-                {
-                    "size": 1000,
-                    "name": "text-height",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-height"
-                },
-                {
-                    "size": 1000,
-                    "name": "text-indent",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-indent"
-                },
-                {
-                    "size": 1000,
-                    "name": "text-justify",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-justify"
-                },
-                {
-                    "size": 1000,
-                    "name": "text-justify-trim",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-justify-trim"
-                },
-                {
-                    "size": 1000,
-                    "name": "text-kashida-space",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-kashida-space"
-                },
-                {
-                    "size": 1000,
-                    "name": "text-line-through",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-line-through"
-                },
-                {
-                    "size": 1000,
-                    "name": "text-line-through-color",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-line-through-color"
-                },
-                {
-                    "size": 1000,
-                    "name": "text-line-through-mode",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-line-through-mode"
-                },
-                {
-                    "size": 1000,
-                    "name": "text-line-through-style",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-line-through-style"
-                },
-                {
-                    "size": 1000,
-                    "name": "text-line-through-width",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-line-through-width"
-                },
-                {
-                    "size": 1000,
-                    "name": "text-rendering",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-rendering"
-                },
-                {
-                    "size": 1000,
-                    "name": "text-script",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-script"
-                },
-                {
-                    "size": 1000,
-                    "name": "text-shadow",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-shadow"
-                },
-                {
-                    "size": 1000,
-                    "name": "text-transform",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-transform"
-                }
-            ]
-        },
-        {
-            "name": "Text Overflow",
-            "children": [
-                {
-                    "size": 1000,
-                    "name": "text-overflow",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-overflow"
-                },
-                {
-                    "size": 1000,
-                    "name": "text-overflow-ellipsis",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-overflow-ellipsis"
-                },
-                {
-                    "size": 1000,
-                    "name": "text-overflow-mode",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-overflow-mode"
-                }
-            ]
-        },
-        {
-            "name": "Text Overline",
-            "children": [
-                {
-                    "size": 1000,
-                    "name": "text-overline",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-overline"
-                },
-                {
-                    "size": 1000,
-                    "name": "text-overline-color",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-overline-color"
-                },
-                {
-                    "size": 1000,
-                    "name": "text-overline-mode",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-overline-mode"
-                },
-                {
-                    "size": 1000,
-                    "name": "text-overline-style",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-overline-style"
-                },
-                {
-                    "size": 1000,
-                    "name": "text-overline-width",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-overline-width"
-                }
-            ]
-        },
-        {
-            "name": "Text Underline",
-            "children": [
-                {
-                    "size": 1000,
-                    "name": "text-underline",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-underline"
-                },
-                {
-                    "size": 1000,
-                    "name": "text-underline-position",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-underline-position"
-                },
-                {
-                    "size": 1000,
-                    "name": "text-underline-style",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-underline-style"
-                },
-                {
-                    "size": 1000,
-                    "name": "text-underline-width",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/text-underline-width"
+                    "name": "Other Text Properties",
+                    "children": [
+                        {
+                            "size": 1000,
+                            "name": "text-autospace",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-autospace"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-height",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-height"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-indent",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-indent"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-kashida-space",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-kashida-space"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-rendering",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-rendering"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-script",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-script"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-shadow",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-shadow"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "text-transform",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/text-transform"
+                        }
+                    ]
                 }
             ]
         },
@@ -1478,21 +1523,6 @@
                     "size": 1000,
                     "name": "touch-action",
                     "url": "http://docs.webplatform.org/wiki/css/properties/touch-action"
-                }
-            ]
-        },
-        {
-            "name": "Unicode",
-            "children": [
-                {
-                    "size": 1000,
-                    "name": "unicode-bidi",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/unicode-bidi"
-                },
-                {
-                    "size": 1000,
-                    "name": "unicode-range",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/unicode-range"
                 }
             ]
         },
@@ -1945,7 +1975,7 @@
                     ]
                 },
                 {
-                    "name": "Margins, Positioning and Sizing",
+                    "name": "Positioning, and Sizing",
                     "children": [
                         {
                             "size": 1000,
@@ -1961,31 +1991,6 @@
                             "size": 1000,
                             "name": "left",
                             "url": "http://docs.webplatform.org/wiki/css/properties/left"
-                        },
-                        {
-                            "size": 1000,
-                            "name": "margin",
-                            "url": "http://docs.webplatform.org/wiki/css/properties/margin"
-                        },
-                        {
-                            "size": 1000,
-                            "name": "margin-bottom",
-                            "url": "http://docs.webplatform.org/wiki/css/properties/margin-bottom"
-                        },
-                        {
-                            "size": 1000,
-                            "name": "margin-left",
-                            "url": "http://docs.webplatform.org/wiki/css/properties/margin-left"
-                        },
-                        {
-                            "size": 1000,
-                            "name": "margin-right",
-                            "url": "http://docs.webplatform.org/wiki/css/properties/margin-right"
-                        },
-                        {
-                            "size": 1000,
-                            "name": "margin-top",
-                            "url": "http://docs.webplatform.org/wiki/css/properties/margin-top"
                         },
                         {
                             "size": 1000,
