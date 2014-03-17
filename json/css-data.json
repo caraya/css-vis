@@ -2,1055 +2,2165 @@
     "name": "CSS",
     "children": [
         {
-            "name": "borders",
+            "name": "Alignment",
             "children": [
                 {
-                    "name": "Border After Properties",
-                    "children": [
-                        {
-                            "name": "border-after",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-after-color",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-after-style",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-after-width",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        }
-                    ]
+                    "size": 1000,
+                    "name": "align-content",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/align-content"
                 },
                 {
-                    "name": "Border Before Properties",
-                    "children": [
-                        {
-                            "name": "border-before",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-before-color",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-before-style",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-before-width",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        }
-                    ]
+                    "size": 1000,
+                    "name": "align-items",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/align-items"
                 },
                 {
-                    "name": "Border Bottom Properties",
-                    "children": [
-                        {
-                            "name": "border-bottom-color",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-bottom-colors",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-bottom-left-radius",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-bottom-right-radius",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-bottom-style",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-bottom-width",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        }
-                    ]
+                    "size": 1000,
+                    "name": "align-self",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/align-self"
                 },
                 {
-                    "name": "Border End Properties",
-                    "children": [
-                        {
-                            "name": "border-end",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-end-color",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-end-style",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-end-width",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        }
-                    ]
+                    "size": 1000,
+                    "name": "alignment-adjust",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/alignment-adjust"
                 },
                 {
-                    "name": "Border Image Properties",
-                    "children": [
-                        {
-                            "name": "border-image",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-image-outset",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-image-repeat",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-image-slice",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-image-source",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-image-width",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        }
-                    ]
-                },
-                {
-                    "name": "Border Left Properties",
-                    "children": [
-                        {
-                            "name": "border-left",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-left-color",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-left-style",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-left-width",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        }
-                    ]
-                },
-                {
-                    "name": "Border Right Properties",
-                    "children": [
-                        {
-                            "name": "border-right",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-right-color",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-right-style",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-right-width",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        }
-                    ]
-                },
-                {
-                    "name": "Border Radius Properties",
-                    "children": [
-                        {
-                            "name": "border-radius",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-radius-bottomleft",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-radius-bottomright",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-radius-topleft",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-radius-topright",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        }
-                    ]
-                },
-                {
-                    "name": "Border Top Properties",
-                    "children": [
-                        {
-                            "name": "border-top",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-top-color",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-top-colors",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-top-style",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-top-left-radius",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-top-right-radius",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-top-width",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        }
-                    ]
-                },
-                {
-                    "name": "Border Start Properties",
-                    "children": [
-                        {
-                            "name": "border-start",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-start-color",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-start-style",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-start-width",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        }
-                    ]
-                },
-                {
-                    "name": "Additional Border Properties",
-                    "children": [
-                        {
-                            "name": "border",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-style",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-horizontal-spacing",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-fit",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-collapse",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-spacing",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-width",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-vertical-spacing",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "border-color",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        }
-                    ]
+                    "size": 1000,
+                    "name": "alignment-baseline",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/alignment-baseline"
                 }
             ]
         },
         {
-            "name": "background",
+            "name": "Animation",
             "children": [
                 {
-                    "name": "General Background Properties",
-                    "children": [
-                        {
-                            "name": "background",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "background-attachment",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "background-clip",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "background-color",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "background-composite",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "background-image",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "background-inline-policy",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        }
-                    ]
+                    "size": 1000,
+                    "name": "animation",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/animation"
                 },
                 {
-                    "name": "Background Origin Properties",
-                    "children": [
-                        {
-                            "name": "background-origin",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "background-origin-x",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "background-origin-y",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        }
-                    ]
+                    "size": 1000,
+                    "name": "animation-delay",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/animation-delay"
                 },
                 {
-                    "name": "Background position Properties",
-                    "children": [
-                        {
-                            "name": "background-position",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "background-position-x",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "background-position-y",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        }
-                    ]
+                    "size": 1000,
+                    "name": "animation-direction",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/animation-direction"
                 },
                 {
-                    "name": "Background repeat Properties",
-                    "children": [
-                        {
-                            "name": "background-repeat",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "background-repeat-x",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "background-repeat-y",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        }
-                    ]
+                    "size": 1000,
+                    "name": "animation-duration",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/animation-duration"
+                },
+                {
+                    "size": 1000,
+                    "name": "animation-fill-mode",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/animation-fill-mode"
+                },
+                {
+                    "size": 1000,
+                    "name": "animation-iteration-count",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/animation-iteration-count"
+                },
+                {
+                    "size": 1000,
+                    "name": "animation-name",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/animation-name"
+                },
+                {
+                    "size": 1000,
+                    "name": "animation-play-state",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/animation-play-state"
+                },
+                {
+                    "size": 1000,
+                    "name": "animation-timing-function",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/animation-timing-function"
                 }
             ]
         },
         {
-            "name": "font",
+            "name": "Background",
             "children": [
                 {
-                    "name": "Font Properties",
-                    "children": [
-                        {
-                            "name": "font",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "font-family",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "font-feature-settings",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "font-kerning",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "font-language-override",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "font-size",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "font-size-adjust",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "font-size-delta",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "font-smoothing",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "font-stretch",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "font-style",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "font-variant",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "font-variant-ligatures",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "font-weight",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        }
-                    ]
+                    "size": 1000,
+                    "name": "background",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/background"
+                },
+                {
+                    "size": 1000,
+                    "name": "background-attachment",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/background-attachment"
+                },
+                {
+                    "size": 1000,
+                    "name": "background-blend-mode",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/background-blend-mode"
+                },
+                {
+                    "size": 1000,
+                    "name": "background-clip",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/background-clip"
+                },
+                {
+                    "size": 1000,
+                    "name": "background-color",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/background-color"
+                },
+                {
+                    "size": 1000,
+                    "name": "background-composite",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/background-composite"
+                },
+                {
+                    "size": 1000,
+                    "name": "background-image",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/background-image"
+                },
+                {
+                    "size": 1000,
+                    "name": "background-origin",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/background-origin"
+                },
+                {
+                    "size": 1000,
+                    "name": "background-position",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/background-position"
+                },
+                {
+                    "size": 1000,
+                    "name": "background-position-x",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/background-position-x"
+                },
+                {
+                    "size": 1000,
+                    "name": "background-position-y",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/background-position-y"
+                },
+                {
+                    "size": 1000,
+                    "name": "background-repeat",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/background-repeat"
+                },
+                {
+                    "size": 1000,
+                    "name": "background-size",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/background-size"
                 }
             ]
         },
         {
-            "name": "animation",
+            "name": "Borders",
             "children": [
                 {
-                    "name": "General Animation Properties",
+                    "size": 1000,
+                    "name": "border",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-bottom",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-bottom"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-bottom-color",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-bottom-color"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-bottom-left-radius",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-bottom-left-radius"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-bottom-right-radius",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-bottom-right-radius"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-bottom-style",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-bottom-style"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-bottom-width",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-bottom-width"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-collapse",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-collapse"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-color",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-color"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-corner-shape",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-corner-shape"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-image",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-image"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-image-outset",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-image-outset"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-image-repeat",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-image-repeat"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-image-slice",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-image-slice"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-image-source",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-image-source"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-image-width",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-image-width"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-left",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-left"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-left-color",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-left-color"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-left-style",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-left-style"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-left-width",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-left-width"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-radius",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-radius"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-right",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-right"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-right-color",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-right-color"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-right-style",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-right-style"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-right-width",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-right-width"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-spacing",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-spacing"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-style",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-style"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-top",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-top"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-top-color",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-top-color"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-top-left-radius",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-top-left-radius"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-top-right-radius",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-top-right-radius"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-top-style",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-top-style"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-top-width",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-top-width"
+                },
+                {
+                    "size": 1000,
+                    "name": "border-width",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/border-width"
+                }
+            ]
+        },
+        {
+            "name": "Box",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "box-decoration-break",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/box-decoration-break"
+                },
+                {
+                    "size": 1000,
+                    "name": "box-direction",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/box-direction"
+                },
+                {
+                    "size": 1000,
+                    "name": "box-flex",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/box-flex"
+                },
+                {
+                    "size": 1000,
+                    "name": "box-line-progression",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/box-line-progression"
+                },
+                {
+                    "size": 1000,
+                    "name": "box-lines",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/box-lines"
+                },
+                {
+                    "size": 1000,
+                    "name": "box-ordinal-group",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/box-ordinal-group"
+                },
+                {
+                    "size": 1000,
+                    "name": "box-orient",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/box-orient"
+                },
+                {
+                    "size": 1000,
+                    "name": "box-pack",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/box-pack"
+                },
+                {
+                    "size": 1000,
+                    "name": "box-shadow",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/box-shadow"
+                },
+                {
+                    "size": 1000,
+                    "name": "box-sizing",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/box-sizing"
+                }
+            ]
+        },
+        {
+            "name": "Break",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "break-after",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/break-after"
+                },
+                {
+                    "size": 1000,
+                    "name": "break-before",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/break-before"
+                },
+                {
+                    "size": 1000,
+                    "name": "break-inside",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/break-inside"
+                },
+                {
+                    "size": 1000,
+                    "name": "caption-side",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/caption-side"
+                }
+            ]
+        },
+        {
+            "name": "clip",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "clip",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/clip"
+                },
+                {
+                    "size": 1000,
+                    "name": "clip-path",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/clip-path"
+                },
+                {
+                    "size": 1000,
+                    "name": "clip-rule",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/clip-rule"
+                }
+            ]
+        },
+        {
+            "name": "Color",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "color",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/color"
+                },
+                {
+                    "size": 1000,
+                    "name": "color-correction",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/color-correction"
+                },
+                {
+                    "size": 1000,
+                    "name": "color-interpolation",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/color-interpolation"
+                },
+                {
+                    "size": 1000,
+                    "name": "color-interpolation-filters",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/color-interpolation-filters"
+                },
+                {
+                    "size": 1000,
+                    "name": "opacity",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/opacity"
+                }
+            ]
+        },
+        {
+            "name": "Columns",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "column-count",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/column-count"
+                },
+                {
+                    "size": 1000,
+                    "name": "column-fill",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/column-fill"
+                },
+                {
+                    "size": 1000,
+                    "name": "column-gap",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/column-gap"
+                },
+                {
+                    "size": 1000,
+                    "name": "column-rule",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/column-rule"
+                },
+                {
+                    "size": 1000,
+                    "name": "column-rule-color",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/column-rule-color"
+                },
+                {
+                    "size": 1000,
+                    "name": "column-rule-style",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/column-rule-style"
+                },
+                {
+                    "size": 1000,
+                    "name": "column-rule-width",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/column-rule-width"
+                },
+                {
+                    "size": 1000,
+                    "name": "column-span",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/column-span"
+                },
+                {
+                    "size": 1000,
+                    "name": "column-width",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/column-width"
+                },
+                {
+                    "size": 1000,
+                    "name": "columns",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/columns"
+                }
+            ]
+        },
+        {
+            "name": "Counter",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "counter-increment",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/counter-increment"
+                },
+                {
+                    "size": 1000,
+                    "name": "counter-reset",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/counter-reset"
+                }
+            ]
+        },
+        {
+            "name": "SVG",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "fill",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/fill"
+                },
+                {
+                    "size": 1000,
+                    "name": "fill-opacity",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/fill-opacity"
+                },
+                {
+                    "size": 1000,
+                    "name": "fill-rule",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/fill-rule"
+                },
+                {
+                    "size": 1000,
+                    "name": "knock-out",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/knock-out"
+                },
+                {
+                    "size": 1000,
+                    "name": "mask",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/mask"
+                },
+                {
+                    "size": 1000,
+                    "name": "mask-box-image",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/mask-box-image"
+                },
+                {
+                    "size": 1000,
+                    "name": "mask-box-image-outset",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/mask-box-image-outset"
+                },
+                {
+                    "size": 1000,
+                    "name": "mask-box-image-repeat",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/mask-box-image-repeat"
+                },
+                {
+                    "size": 1000,
+                    "name": "mask-box-image-slice",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/mask-box-image-slice"
+                },
+                {
+                    "size": 1000,
+                    "name": "mask-box-image-source",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/mask-box-image-source"
+                },
+                {
+                    "size": 1000,
+                    "name": "mask-box-image-width",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/mask-box-image-width"
+                },
+                {
+                    "size": 1000,
+                    "name": "mask-clip",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/mask-clip"
+                },
+                {
+                    "size": 1000,
+                    "name": "mask-image",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/mask-image"
+                },
+                {
+                    "size": 1000,
+                    "name": "mask-origin",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/mask-origin"
+                },
+                {
+                    "size": 1000,
+                    "name": "mask-position",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/mask-position"
+                },
+                {
+                    "size": 1000,
+                    "name": "mask-repeat",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/mask-repeat"
+                },
+                {
+                    "size": 1000,
+                    "name": "mask-size",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/mask-size"
+                },
+                {
+                    "size": 1000,
+                    "name": "mask-source-type",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/mask-source-type"
+                },
+                {
+                    "size": 1000,
+                    "name": "mask-type",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/mask-type"
+                }
+            ]
+        },
+        {
+            "name": "Flex",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "flex",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/flex"
+                },
+                {
+                    "size": 1000,
+                    "name": "flex-basis",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/flex-basis"
+                },
+                {
+                    "size": 1000,
+                    "name": "flex-direction",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/flex-direction"
+                },
+                {
+                    "size": 1000,
+                    "name": "flex-flow",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/flex-flow"
+                },
+                {
+                    "size": 1000,
+                    "name": "flex-grow",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/flex-grow"
+                },
+                {
+                    "size": 1000,
+                    "name": "flex-shrink",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/flex-shrink"
+                },
+                {
+                    "size": 1000,
+                    "name": "flex-wrap",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/flex-wrap"
+                },
+                {
+                    "size": 1000,
+                    "name": "order",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/order"
+                }
+            ]
+        },
+        {
+            "name": "Regions",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "flow-from",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/flow-from"
+                },
+                {
+                    "size": 1000,
+                    "name": "flow-into",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/flow-into"
+                }
+            ]
+        },
+        {
+            "name": "Font and Typography",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "font",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/font"
+                },
+                {
+                    "size": 1000,
+                    "name": "font-family",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/font-family"
+                },
+                {
+                    "size": 1000,
+                    "name": "font-feature-settings",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/font-feature-settings"
+                },
+                {
+                    "size": 1000,
+                    "name": "font-kerning",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/font-kerning"
+                },
+                {
+                    "size": 1000,
+                    "name": "font-language-override",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/font-language-override"
+                },
+                {
+                    "size": 1000,
+                    "name": "font-size",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/font-size"
+                },
+                {
+                    "size": 1000,
+                    "name": "font-size-adjust",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/font-size-adjust"
+                },
+                {
+                    "size": 1000,
+                    "name": "font-stretch",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/font-stretch"
+                },
+                {
+                    "size": 1000,
+                    "name": "font-style",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/font-style"
+                },
+                {
+                    "size": 1000,
+                    "name": "font-synthesis",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/font-synthesis"
+                },
+                {
+                    "size": 1000,
+                    "name": "font-variant",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/font-variant"
+                },
+                {
+                    "size": 1000,
+                    "name": "font-variant-alternates",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/font-variant-alternates"
+                },
+                {
+                    "size": 1000,
+                    "name": "font-weight",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/font-weight"
+                },
+                {
+                    "size": 1000,
+                    "name": "hanging-punctuation",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/hanging-punctuation"
+                },
+                {
+                    "size": 1000,
+                    "name": "ime-mode",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/ime-mode"
+                },
+                {
+                    "size": 1000,
+                    "name": "justify-content",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/justify-content"
+                },
+                {
+                    "size": 1000,
+                    "name": "kerning-mode",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/kerning-mode"
+                },
+                {
+                    "size": 1000,
+                    "name": "kerning-pair-threshold",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/kerning-pair-threshold"
+                },
+                {
+                    "size": 1000,
+                    "name": "letter-spacing",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/letter-spacing"
+                },
+                {
+                    "size": 1000,
+                    "name": "line-height",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/line-height"
+                },
+                {
+                    "size": 1000,
+                    "name": "widows",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/widows"
+                },
+                {
+                    "size": 1000,
+                    "name": "orphans",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/orphans"
+                },
+                {
+                    "size": 1000,
+                    "name": "quotes",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/quotes"
+                },
+                {
+                    "size": 1000,
+                    "name": "tab-size",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/tab-size"
+                }
+            ]
+        },
+        {
+            "name": "Grid",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "grid",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/grid"
+                },
+                {
+                    "size": 1000,
+                    "name": "grid-area",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/grid-area"
+                },
+                {
+                    "size": 1000,
+                    "name": "grid-auto-columns",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/grid-auto-columns"
+                },
+                {
+                    "size": 1000,
+                    "name": "grid-auto-flow",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/grid-auto-flow"
+                },
+                {
+                    "size": 1000,
+                    "name": "grid-auto-position",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/grid-auto-position"
+                },
+                {
+                    "size": 1000,
+                    "name": "grid-auto-rows",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/grid-auto-rows"
+                },
+                {
+                    "size": 1000,
+                    "name": "grid-column",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/grid-column"
+                },
+                {
+                    "size": 1000,
+                    "name": "grid-column-end",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/grid-column-end"
+                },
+                {
+                    "size": 1000,
+                    "name": "grid-column-position",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/grid-column-position"
+                },
+                {
+                    "size": 1000,
+                    "name": "grid-column-span",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/grid-column-span"
+                },
+                {
+                    "size": 1000,
+                    "name": "grid-column-start",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/grid-column-start"
+                },
+                {
+                    "size": 1000,
+                    "name": "grid-definition-columns",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/grid-definition-columns"
+                },
+                {
+                    "size": 1000,
+                    "name": "grid-definition-rows",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/grid-definition-rows"
+                },
+                {
+                    "size": 1000,
+                    "name": "grid-row",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/grid-row"
+                },
+                {
+                    "size": 1000,
+                    "name": "grid-row-end",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/grid-row-end"
+                },
+                {
+                    "size": 1000,
+                    "name": "grid-row-position",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/grid-row-position"
+                },
+                {
+                    "size": 1000,
+                    "name": "grid-row-span",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/grid-row-span"
+                },
+                {
+                    "size": 1000,
+                    "name": "grid-row-start",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/grid-row-start"
+                },
+                {
+                    "size": 1000,
+                    "name": "grid-span",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/grid-span"
+                },
+                {
+                    "size": 1000,
+                    "name": "grid-template",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/grid-template"
+                },
+                {
+                    "size": 1000,
+                    "name": "grid-template-areas",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/grid-template-areas"
+                },
+                {
+                    "size": 1000,
+                    "name": "grid-template-columns",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/grid-template-columns"
+                },
+                {
+                    "size": 1000,
+                    "name": "grid-template-rows",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/grid-template-rows"
+                }
+            ]
+        },
+        {
+            "name": "Hyphenation",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "hyphenate-limit-chars",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/hyphenate-limit-chars"
+                },
+                {
+                    "size": 1000,
+                    "name": "hyphenate-limit-lines",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/hyphenate-limit-lines"
+                },
+                {
+                    "size": 1000,
+                    "name": "hyphenate-limit-zone",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/hyphenate-limit-zone"
+                },
+                {
+                    "size": 1000,
+                    "name": "hyphens",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/hyphens"
+                }
+            ]
+        },
+        {
+            "name": "Lists",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "list-style",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/list-style"
+                },
+                {
+                    "size": 1000,
+                    "name": "list-style-image",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/list-style-image"
+                },
+                {
+                    "size": 1000,
+                    "name": "list-style-position",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/list-style-position"
+                },
+                {
+                    "size": 1000,
+                    "name": "list-style-type",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/list-style-type"
+                }
+            ]
+        },
+        {
+            "name": "Marquee",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "marquee-direction",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/marquee-direction"
+                },
+                {
+                    "size": 1000,
+                    "name": "marquee-play-count",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/marquee-play-count"
+                },
+                {
+                    "size": 1000,
+                    "name": "marquee-speed",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/marquee-speed"
+                },
+                {
+                    "size": 1000,
+                    "name": "marquee-style",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/marquee-style"
+                }
+            ]
+        },
+        {
+            "name": "ms-scroll",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "ms-scroll-chaining",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/ms-scroll-chaining"
+                },
+                {
+                    "size": 1000,
+                    "name": "ms-scroll-limit",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/ms-scroll-limit"
+                },
+                {
+                    "size": 1000,
+                    "name": "ms-scroll-limit-xMax",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/ms-scroll-limit-xMax"
+                },
+                {
+                    "size": 1000,
+                    "name": "ms-scroll-limit-xMin",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/ms-scroll-limit-xMin"
+                },
+                {
+                    "size": 1000,
+                    "name": "ms-scroll-limit-yMax",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/ms-scroll-limit-yMax"
+                },
+                {
+                    "size": 1000,
+                    "name": "ms-scroll-limit-yMin",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/ms-scroll-limit-yMin"
+                },
+                {
+                    "size": 1000,
+                    "name": "ms-scroll-rails",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/ms-scroll-rails"
+                },
+                {
+                    "size": 1000,
+                    "name": "ms-scroll-snap-points-x",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/ms-scroll-snap-points-x"
+                },
+                {
+                    "size": 1000,
+                    "name": "ms-scroll-snap-points-y",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/ms-scroll-snap-points-y"
+                },
+                {
+                    "size": 1000,
+                    "name": "ms-scroll-snap-type",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/ms-scroll-snap-type"
+                },
+                {
+                    "size": 1000,
+                    "name": "ms-scroll-snap-x",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/ms-scroll-snap-x"
+                },
+                {
+                    "size": 1000,
+                    "name": "ms-scroll-snap-y",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/ms-scroll-snap-y"
+                },
+                {
+                    "size": 1000,
+                    "name": "ms-scroll-translation",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/ms-scroll-translation"
+                }
+            ]
+        },
+        {
+            "name": "Outline",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "outline",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/outline"
+                },
+                {
+                    "size": 1000,
+                    "name": "outline-color",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/outline-color"
+                },
+                {
+                    "size": 1000,
+                    "name": "outline-offset",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/outline-offset"
+                },
+                {
+                    "size": 1000,
+                    "name": "outline-style",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/outline-style"
+                },
+                {
+                    "size": 1000,
+                    "name": "outline-width",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/outline-width"
+                }
+            ]
+        },
+        {
+            "name": "Overflow",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "overflow",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/overflow"
+                },
+                {
+                    "size": 1000,
+                    "name": "overflow-style",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/overflow-style"
+                },
+                {
+                    "size": 1000,
+                    "name": "overflow-wrap",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/overflow-wrap"
+                },
+                {
+                    "size": 1000,
+                    "name": "overflow-x",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/overflow-x"
+                },
+                {
+                    "size": 1000,
+                    "name": "overflow-y",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/overflow-y"
+                }
+            ]
+        },
+        {
+            "name": "Padding",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "padding",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/padding"
+                },
+                {
+                    "size": 1000,
+                    "name": "padding-bottom",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/padding-bottom"
+                },
+                {
+                    "size": 1000,
+                    "name": "padding-left",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/padding-left"
+                },
+                {
+                    "size": 1000,
+                    "name": "padding-right",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/padding-right"
+                },
+                {
+                    "size": 1000,
+                    "name": "padding-top",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/padding-top"
+                }
+            ]
+        },
+        {
+            "name": "page-break",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "page-break-after",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/page-break-after"
+                },
+                {
+                    "size": 1000,
+                    "name": "page-break-before",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/page-break-before"
+                },
+                {
+                    "size": 1000,
+                    "name": "page-break-inside",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/page-break-inside"
+                }
+            ]
+        },
+        {
+            "name": "Regions and Shapes",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "region-fragment",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/region-fragment"
+                },
+                {
+                    "size": 1000,
+                    "name": "shape-image-threshold",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/shape-image-threshold"
+                },
+                {
+                    "size": 1000,
+                    "name": "shape-inside",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/shape-inside"
+                },
+                {
+                    "size": 1000,
+                    "name": "shape-margin",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/shape-margin"
+                },
+                {
+                    "size": 1000,
+                    "name": "shape-outside",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/shape-outside"
+                },
+                {
+                    "size": 1000,
+                    "name": "shape-padding",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/shape-padding"
+                }
+            ]
+        },
+        {
+            "name": "Ruby",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "ruby-overhang",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/ruby-overhang"
+                },
+                {
+                    "size": 1000,
+                    "name": "ruby-position",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/ruby-position"
+                }
+            ]
+        },
+        {
+            "name": "Text",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "text-align",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-align"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-align-last",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-align-last"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-autospace",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-autospace"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-decoration",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-decoration-blink",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-blink"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-decoration-color",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-color"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-decoration-line",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-line"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-decoration-line-through",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-line-through"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-decoration-none",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-none"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-decoration-overline",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-overline"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-decoration-skip",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-skip"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-decoration-style",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-style"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-decoration-underline",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-underline"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-emphasis",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-emphasis"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-emphasis-color",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-emphasis-color"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-emphasis-style",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-emphasis-style"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-height",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-height"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-indent",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-indent"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-justify",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-justify"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-justify-trim",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-justify-trim"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-kashida-space",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-kashida-space"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-line-through",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-line-through"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-line-through-color",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-line-through-color"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-line-through-mode",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-line-through-mode"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-line-through-style",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-line-through-style"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-line-through-width",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-line-through-width"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-rendering",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-rendering"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-script",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-script"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-shadow",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-shadow"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-transform",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-transform"
+                }
+            ]
+        },
+        {
+            "name": "Text Overflow",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "text-overflow",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-overflow"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-overflow-ellipsis",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-overflow-ellipsis"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-overflow-mode",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-overflow-mode"
+                }
+            ]
+        },
+        {
+            "name": "Text Overline",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "text-overline",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-overline"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-overline-color",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-overline-color"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-overline-mode",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-overline-mode"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-overline-style",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-overline-style"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-overline-width",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-overline-width"
+                }
+            ]
+        },
+        {
+            "name": "Text Underline",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "text-underline",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-underline"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-underline-position",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-underline-position"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-underline-style",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-underline-style"
+                },
+                {
+                    "size": 1000,
+                    "name": "text-underline-width",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/text-underline-width"
+                }
+            ]
+        },
+        {
+            "name": "Touch",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "ms-touch-select",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/ms-touch-select"
+                },
+                {
+                    "size": 1000,
+                    "name": "touch-action",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/touch-action"
+                }
+            ]
+        },
+        {
+            "name": "Unicode",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "unicode-bidi",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/unicode-bidi"
+                },
+                {
+                    "size": 1000,
+                    "name": "unicode-range",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/unicode-range"
+                }
+            ]
+        },
+        {
+            "name": "User",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "user-focus",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/user-focus"
+                },
+                {
+                    "size": 1000,
+                    "name": "user-input",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/user-input"
+                },
+                {
+                    "size": 1000,
+                    "name": "user-modify",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/user-modify"
+                },
+                {
+                    "size": 1000,
+                    "name": "user-select",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/user-select"
+                }
+            ]
+        },
+        {
+            "name": "Whitespace",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "white-space",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/white-space"
+                },
+                {
+                    "size": 1000,
+                    "name": "white-space-treatment",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/white-space-treatment"
+                }
+            ]
+        },
+        {
+            "name": "Word Properties",
+            "children": [
+                {
+                    "size": 1000,
+                    "name": "word-break",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/word-break"
+                },
+                {
+                    "size": 1000,
+                    "name": "word-break-inside",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/word-break-inside"
+                },
+                {
+                    "size": 1000,
+                    "name": "word-spacing",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/word-spacing"
+                },
+                {
+                    "size": 1000,
+                    "name": "word-wrap",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/word-wrap"
+                },
+                {
+                    "name": "Flow",
                     "children": [
                         {
+                            "size": 1000,
+                            "name": "wrap-flow",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/wrap-flow"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "wrap-margin",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/wrap-margin"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "wrap-option",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/wrap-option"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "wrap-through",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/wrap-through"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "writing-mode",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/writing-mode"
+                        }
+                    ]
+                },
+                {
+                    "name": "Alignment",
+                    "children": [
+                        {
+                            "size": 1000,
+                            "name": "align-content",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/align-content"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "align-items",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/align-items"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "align-self",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/align-self"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "alignment-adjust",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/alignment-adjust"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "alignment-baseline",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/alignment-baseline"
+                        }
+                    ]
+                },
+                {
+                    "name": "Animation",
+                    "children": [
+                        {
+                            "size": 1000,
                             "name": "animation",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "url": "http://docs.webplatform.org/wiki/css/properties/animation"
                         },
                         {
+                            "size": 1000,
                             "name": "animation-delay",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "url": "http://docs.webplatform.org/wiki/css/properties/animation-delay"
                         },
                         {
+                            "size": 1000,
                             "name": "animation-direction",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "url": "http://docs.webplatform.org/wiki/css/properties/animation-direction"
                         },
                         {
+                            "size": 1000,
                             "name": "animation-duration",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "url": "http://docs.webplatform.org/wiki/css/properties/animation-duration"
                         },
                         {
+                            "size": 1000,
                             "name": "animation-fill-mode",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "url": "http://docs.webplatform.org/wiki/css/properties/animation-fill-mode"
                         },
                         {
+                            "size": 1000,
                             "name": "animation-iteration-count",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "url": "http://docs.webplatform.org/wiki/css/properties/animation-iteration-count"
                         },
                         {
+                            "size": 1000,
                             "name": "animation-name",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "url": "http://docs.webplatform.org/wiki/css/properties/animation-name"
                         },
                         {
+                            "size": 1000,
                             "name": "animation-play-state",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "url": "http://docs.webplatform.org/wiki/css/properties/animation-play-state"
                         },
                         {
+                            "size": 1000,
                             "name": "animation-timing-function",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "url": "http://docs.webplatform.org/wiki/css/properties/animation-timing-function"
                         }
                     ]
-                }
-            ]
-        },
-        {
-            "name": "margin",
-            "children": [
+                },
                 {
-                    "name": "Margin Properties",
+                    "name": "Alignment",
                     "children": [
                         {
+                            "size": 1000,
+                            "name": "align-content",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/align-content"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "align-items",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/align-items"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "align-self",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/align-self"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "alignment-adjust",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/alignment-adjust"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "alignment-baseline",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/alignment-baseline"
+                        }
+                    ]
+                },
+                {
+                    "name": "Background",
+                    "children": [
+                        {
+                            "size": 1000,
+                            "name": "background",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/background"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "background-attachment",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/background-attachment"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "background-blend-mode",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/background-blend-mode"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "background-clip",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/background-clip"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "background-color",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/background-color"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "background-composite",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/background-composite"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "background-image",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/background-image"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "background-origin",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/background-origin"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "background-position",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/background-position"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "background-position-x",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/background-position-x"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "background-position-y",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/background-position-y"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "background-repeat",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/background-repeat"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "background-size",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/background-size"
+                        }
+                    ]
+                },
+                {
+                    "name": "Borders",
+                    "children": [
+                        {
+                            "size": 1000,
+                            "name": "border",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-bottom",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-bottom"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-bottom-color",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-bottom-color"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-bottom-left-radius",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-bottom-left-radius"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-bottom-right-radius",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-bottom-right-radius"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-bottom-style",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-bottom-style"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-bottom-width",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-bottom-width"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-collapse",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-collapse"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-color",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-color"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-corner-shape",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-corner-shape"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-image",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-image"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-image-outset",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-image-outset"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-image-repeat",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-image-repeat"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-image-slice",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-image-slice"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-image-source",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-image-source"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-image-width",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-image-width"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-left",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-left"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-left-color",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-left-color"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-left-style",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-left-style"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-left-width",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-left-width"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-radius",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-radius"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-right",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-right"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-right-color",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-right-color"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-right-style",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-right-style"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-right-width",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-right-width"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-spacing",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-spacing"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-style",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-style"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-top",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-top"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-top-color",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-top-color"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-top-left-radius",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-top-left-radius"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-top-right-radius",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-top-right-radius"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-top-style",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-top-style"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-top-width",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-top-width"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "border-width",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/border-width"
+                        }
+                    ]
+                },
+                {
+                    "name": "Margins, Positioning and Sizing",
+                    "children": [
+                        {
+                            "size": 1000,
+                            "name": "bottom",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/bottom"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "height",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/height"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "left",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/left"
+                        },
+                        {
+                            "size": 1000,
                             "name": "margin",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "url": "http://docs.webplatform.org/wiki/css/properties/margin"
                         },
                         {
-                            "name": "margin-after",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "margin-after-collapse",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "margin-before",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "margin-before-collapse",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
+                            "size": 1000,
                             "name": "margin-bottom",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "url": "http://docs.webplatform.org/wiki/css/properties/margin-bottom"
                         },
                         {
-                            "name": "margin-bottom-collapse",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "margin-collapse",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "margin-end",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
+                            "size": 1000,
                             "name": "margin-left",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "url": "http://docs.webplatform.org/wiki/css/properties/margin-left"
                         },
                         {
+                            "size": 1000,
                             "name": "margin-right",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "url": "http://docs.webplatform.org/wiki/css/properties/margin-right"
                         },
                         {
-                            "name": "margin-start",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
+                            "size": 1000,
                             "name": "margin-top",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "url": "http://docs.webplatform.org/wiki/css/properties/margin-top"
                         },
                         {
-                            "name": "margin-top-collapse",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "overflow",
-            "children": [
-                {
-                    "name": "Overflow Properties",
-                    "children": [
-                        {
-                            "name": "overflow",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "size": 1000,
+                            "name": "min-height",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/min-height"
                         },
                         {
-                            "name": "overflow-scrolling",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "size": 1000,
+                            "name": "max-height",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/max-height"
                         },
                         {
-                            "name": "overflow-style",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "size": 1000,
+                            "name": "max-width",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/max-width"
                         },
                         {
-                            "name": "overflow-wrap",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "size": 1000,
+                            "name": "min-width",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/min-width"
                         },
                         {
-                            "name": "overflow-x",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "size": 1000,
+                            "name": "right",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/right"
                         },
                         {
-                            "name": "overflow-y",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "text",
-            "children": [
-                {
-                    "name": "Text Properties",
-                    "children": [
-                        {
-                            "name": "text-align",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "size": 1000,
+                            "name": "ruby-align",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/ruby-align"
                         },
                         {
-                            "name": "text-align-last",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "size": 1000,
+                            "name": "top",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/top"
                         },
                         {
-                            "name": "text-autospace",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "size": 1000,
+                            "name": "vertical-align",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/vertical-align"
                         },
                         {
-                            "name": "text-blink",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "size": 1000,
+                            "name": "visibility",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/visibility"
                         },
                         {
-                            "name": "text-combine",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "size": 1000,
+                            "name": "width",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/width"
                         },
                         {
-                            "name": "text-decoration",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "size": 1000,
+                            "name": "z-index",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/z-index"
                         },
                         {
-                            "name": "text-decoration-color",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "size": 1000,
+                            "name": "position",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/position"
                         },
                         {
-                            "name": "text-decoration-line",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "size": 1000,
+                            "name": "clear",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/clear"
                         },
                         {
-                            "name": "text-decoration-skip",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-decoration-style",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-decorations-in-effect",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-emphasis",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-emphasis-color",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-emphasis-position",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-emphasis-style",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-fill-color",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-indent",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-justify",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-kashida-space",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-line-through",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-line-through-color",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-line-through-mode",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-line-through-style",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-line-through-width",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-orientation",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-overflow",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-overflow-ellipsis",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-overflow-mode",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-overline",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-overline-color",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-overline-mode",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-overline-style",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-overline-width",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-rendering",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-security",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-shadow",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-size-adjust",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-stroke",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-stroke-color",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-stroke-width",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-transform",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-underline",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-underline-color",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-underline-mode",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-underline-position",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-underline-style",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "text-underline-width",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "columns",
-            "children": [
-                {
-                    "name": "General Column Properties",
-                    "children": [
-                        {
-                            "name": "column-count",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "column-fill",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "column-gap",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "column-rule",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "column-span",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "column-width",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "size": 1000,
+                            "name": "float",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/float"
                         }
                     ]
                 },
                 {
-                    "name": "Column Break Properties",
+                    "name": "Miscelaneous",
                     "children": [
                         {
-                            "name": "column-break-after",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "size": 1000,
+                            "name": "direction",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/direction"
                         },
                         {
-                            "name": "column-break-before",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "size": 1000,
+                            "name": "display",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/display"
                         },
                         {
-                            "name": "column-break-inside",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "size": 1000,
+                            "name": "empty-cells",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/empty-cells"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "pointer-events",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/pointer-events"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "table-layout",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/table-layout"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "cursor",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/cursor"
                         }
                     ]
                 },
                 {
-                    "name": "Additional Column Rule Properties",
+                    "name": "Multimedia",
                     "children": [
                         {
-                            "name": "column-rule-color",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "column-rule-color",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "column-rule-style",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
-                        },
-                        {
-                            "name": "column-rule-width",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "size": 1000,
+                            "name": "object-fit",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/object-fit"
                         }
                     ]
                 },
                 {
-                    "name": "General Column Properties",
+                    "name": "Transitions and Transformations",
                     "children": [
                         {
-                            "name": "column-progression",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "size": 1000,
+                            "name": "perspective",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/perspective"
                         },
                         {
-                            "name": "column-axis",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "size": 1000,
+                            "name": "perspective-origin",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/perspective-origin"
                         },
                         {
-                            "name": "columns",
-                            "url": "http://carlos.rivendellweb.net/",
-                            "size": 1000
+                            "size": 1000,
+                            "name": "transform",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/transform"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "transform-origin",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/transform-origin"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "transform-origin-z",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/transform-origin-z"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "transform-style",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/transform-style"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "transition",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/transition"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "transition-delay",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/transition-delay"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "transition-duration",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/transition-duration"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "transition-property",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/transition-property"
+                        },
+                        {
+                            "size": 1000,
+                            "name": "transition-timing-function",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/transition-timing-function"
                         }
                     ]
                 }

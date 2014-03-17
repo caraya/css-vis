@@ -63,7 +63,7 @@ d3.json("json/css-data.json", function(error, css) {
   function collapse(d) {
     if (d.children) {
       d._children = d.children;
-      d._children.forEach(collapse);
+      //d._children.forEach(collapse);
       d.children = null;
     }
   }
@@ -81,7 +81,7 @@ function update(source) {
       links = tree.links(nodes);
 
   // Normalize for fixed-depth.
-  nodes.forEach(function(d) { d.y = d.depth * 180; });
+  nodes.forEach(function(d) { d.y = d.depth * 200; });
 
   // Update the nodes…
   var node = svg.selectAll("g.node")
