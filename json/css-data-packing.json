@@ -490,12 +490,12 @@
             "name": "Counter",
             "children": [
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "counter-increment",
                     "url": "http://docs.webplatform.org/wiki/css/properties/counter-increment"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "counter-reset",
                     "url": "http://docs.webplatform.org/wiki/css/properties/counter-reset"
                 }
@@ -505,97 +505,97 @@
             "name": "SVG",
             "children": [
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "fill",
                     "url": "http://docs.webplatform.org/wiki/css/properties/fill"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "fill-opacity",
                     "url": "http://docs.webplatform.org/wiki/css/properties/fill-opacity"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "fill-rule",
                     "url": "http://docs.webplatform.org/wiki/css/properties/fill-rule"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "knock-out",
                     "url": "http://docs.webplatform.org/wiki/css/properties/knock-out"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "mask",
                     "url": "http://docs.webplatform.org/wiki/css/properties/mask"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "mask-box-image",
                     "url": "http://docs.webplatform.org/wiki/css/properties/mask-box-image"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "mask-box-image-outset",
                     "url": "http://docs.webplatform.org/wiki/css/properties/mask-box-image-outset"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "mask-box-image-repeat",
                     "url": "http://docs.webplatform.org/wiki/css/properties/mask-box-image-repeat"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "mask-box-image-slice",
                     "url": "http://docs.webplatform.org/wiki/css/properties/mask-box-image-slice"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "mask-box-image-source",
                     "url": "http://docs.webplatform.org/wiki/css/properties/mask-box-image-source"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "mask-box-image-width",
                     "url": "http://docs.webplatform.org/wiki/css/properties/mask-box-image-width"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "mask-clip",
                     "url": "http://docs.webplatform.org/wiki/css/properties/mask-clip"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "mask-image",
                     "url": "http://docs.webplatform.org/wiki/css/properties/mask-image"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "mask-origin",
                     "url": "http://docs.webplatform.org/wiki/css/properties/mask-origin"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "mask-position",
                     "url": "http://docs.webplatform.org/wiki/css/properties/mask-position"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "mask-repeat",
                     "url": "http://docs.webplatform.org/wiki/css/properties/mask-repeat"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "mask-size",
                     "url": "http://docs.webplatform.org/wiki/css/properties/mask-size"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "mask-source-type",
                     "url": "http://docs.webplatform.org/wiki/css/properties/mask-source-type"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "mask-type",
                     "url": "http://docs.webplatform.org/wiki/css/properties/mask-type"
                 }
@@ -605,42 +605,42 @@
             "name": "Flex",
             "children": [
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "flex",
                     "url": "http://docs.webplatform.org/wiki/css/properties/flex"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "flex-basis",
                     "url": "http://docs.webplatform.org/wiki/css/properties/flex-basis"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "flex-direction",
                     "url": "http://docs.webplatform.org/wiki/css/properties/flex-direction"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "flex-flow",
                     "url": "http://docs.webplatform.org/wiki/css/properties/flex-flow"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "flex-grow",
                     "url": "http://docs.webplatform.org/wiki/css/properties/flex-grow"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "flex-shrink",
                     "url": "http://docs.webplatform.org/wiki/css/properties/flex-shrink"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "flex-wrap",
                     "url": "http://docs.webplatform.org/wiki/css/properties/flex-wrap"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "order",
                     "url": "http://docs.webplatform.org/wiki/css/properties/order"
                 }
@@ -650,12 +650,12 @@
             "name": "Regions",
             "children": [
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "flow-from",
                     "url": "http://docs.webplatform.org/wiki/css/properties/flow-from"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "flow-into",
                     "url": "http://docs.webplatform.org/wiki/css/properties/flow-into"
                 }
@@ -665,122 +665,122 @@
             "name": "Font and Typography",
             "children": [
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "font",
                     "url": "http://docs.webplatform.org/wiki/css/properties/font"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "font-family",
                     "url": "http://docs.webplatform.org/wiki/css/properties/font-family"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "font-feature-settings",
                     "url": "http://docs.webplatform.org/wiki/css/properties/font-feature-settings"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "font-kerning",
                     "url": "http://docs.webplatform.org/wiki/css/properties/font-kerning"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "font-language-override",
                     "url": "http://docs.webplatform.org/wiki/css/properties/font-language-override"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "font-size",
                     "url": "http://docs.webplatform.org/wiki/css/properties/font-size"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "font-size-adjust",
                     "url": "http://docs.webplatform.org/wiki/css/properties/font-size-adjust"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "font-stretch",
                     "url": "http://docs.webplatform.org/wiki/css/properties/font-stretch"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "font-style",
                     "url": "http://docs.webplatform.org/wiki/css/properties/font-style"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "font-synthesis",
                     "url": "http://docs.webplatform.org/wiki/css/properties/font-synthesis"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "font-variant",
                     "url": "http://docs.webplatform.org/wiki/css/properties/font-variant"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "font-variant-alternates",
                     "url": "http://docs.webplatform.org/wiki/css/properties/font-variant-alternates"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "font-weight",
                     "url": "http://docs.webplatform.org/wiki/css/properties/font-weight"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "hanging-punctuation",
                     "url": "http://docs.webplatform.org/wiki/css/properties/hanging-punctuation"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "ime-mode",
                     "url": "http://docs.webplatform.org/wiki/css/properties/ime-mode"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "justify-content",
                     "url": "http://docs.webplatform.org/wiki/css/properties/justify-content"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "kerning-mode",
                     "url": "http://docs.webplatform.org/wiki/css/properties/kerning-mode"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "kerning-pair-threshold",
                     "url": "http://docs.webplatform.org/wiki/css/properties/kerning-pair-threshold"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "letter-spacing",
                     "url": "http://docs.webplatform.org/wiki/css/properties/letter-spacing"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "line-height",
                     "url": "http://docs.webplatform.org/wiki/css/properties/line-height"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "widows",
                     "url": "http://docs.webplatform.org/wiki/css/properties/widows"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "orphans",
                     "url": "http://docs.webplatform.org/wiki/css/properties/orphans"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "quotes",
                     "url": "http://docs.webplatform.org/wiki/css/properties/quotes"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "tab-size",
                     "url": "http://docs.webplatform.org/wiki/css/properties/tab-size"
                 }
@@ -790,117 +790,117 @@
             "name": "Grid",
             "children": [
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "grid",
                     "url": "http://docs.webplatform.org/wiki/css/properties/grid"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "grid-area",
                     "url": "http://docs.webplatform.org/wiki/css/properties/grid-area"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "grid-auto-columns",
                     "url": "http://docs.webplatform.org/wiki/css/properties/grid-auto-columns"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "grid-auto-flow",
                     "url": "http://docs.webplatform.org/wiki/css/properties/grid-auto-flow"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "grid-auto-position",
                     "url": "http://docs.webplatform.org/wiki/css/properties/grid-auto-position"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "grid-auto-rows",
                     "url": "http://docs.webplatform.org/wiki/css/properties/grid-auto-rows"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "grid-column",
                     "url": "http://docs.webplatform.org/wiki/css/properties/grid-column"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "grid-column-end",
                     "url": "http://docs.webplatform.org/wiki/css/properties/grid-column-end"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "grid-column-position",
                     "url": "http://docs.webplatform.org/wiki/css/properties/grid-column-position"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "grid-column-span",
                     "url": "http://docs.webplatform.org/wiki/css/properties/grid-column-span"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "grid-column-start",
                     "url": "http://docs.webplatform.org/wiki/css/properties/grid-column-start"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "grid-definition-columns",
                     "url": "http://docs.webplatform.org/wiki/css/properties/grid-definition-columns"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "grid-definition-rows",
                     "url": "http://docs.webplatform.org/wiki/css/properties/grid-definition-rows"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "grid-row",
                     "url": "http://docs.webplatform.org/wiki/css/properties/grid-row"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "grid-row-end",
                     "url": "http://docs.webplatform.org/wiki/css/properties/grid-row-end"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "grid-row-position",
                     "url": "http://docs.webplatform.org/wiki/css/properties/grid-row-position"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "grid-row-span",
                     "url": "http://docs.webplatform.org/wiki/css/properties/grid-row-span"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "grid-row-start",
                     "url": "http://docs.webplatform.org/wiki/css/properties/grid-row-start"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "grid-span",
                     "url": "http://docs.webplatform.org/wiki/css/properties/grid-span"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "grid-template",
                     "url": "http://docs.webplatform.org/wiki/css/properties/grid-template"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "grid-template-areas",
                     "url": "http://docs.webplatform.org/wiki/css/properties/grid-template-areas"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "grid-template-columns",
                     "url": "http://docs.webplatform.org/wiki/css/properties/grid-template-columns"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "grid-template-rows",
                     "url": "http://docs.webplatform.org/wiki/css/properties/grid-template-rows"
                 }
@@ -910,22 +910,22 @@
             "name": "Hyphenation",
             "children": [
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "hyphenate-limit-chars",
                     "url": "http://docs.webplatform.org/wiki/css/properties/hyphenate-limit-chars"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "hyphenate-limit-lines",
                     "url": "http://docs.webplatform.org/wiki/css/properties/hyphenate-limit-lines"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "hyphenate-limit-zone",
                     "url": "http://docs.webplatform.org/wiki/css/properties/hyphenate-limit-zone"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "hyphens",
                     "url": "http://docs.webplatform.org/wiki/css/properties/hyphens"
                 }
@@ -935,22 +935,22 @@
             "name": "Lists",
             "children": [
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "list-style",
                     "url": "http://docs.webplatform.org/wiki/css/properties/list-style"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "list-style-image",
                     "url": "http://docs.webplatform.org/wiki/css/properties/list-style-image"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "list-style-position",
                     "url": "http://docs.webplatform.org/wiki/css/properties/list-style-position"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "list-style-type",
                     "url": "http://docs.webplatform.org/wiki/css/properties/list-style-type"
                 }
@@ -960,22 +960,22 @@
             "name": "Marquee",
             "children": [
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "marquee-direction",
                     "url": "http://docs.webplatform.org/wiki/css/properties/marquee-direction"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "marquee-play-count",
                     "url": "http://docs.webplatform.org/wiki/css/properties/marquee-play-count"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "marquee-speed",
                     "url": "http://docs.webplatform.org/wiki/css/properties/marquee-speed"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "marquee-style",
                     "url": "http://docs.webplatform.org/wiki/css/properties/marquee-style"
                 }
@@ -985,67 +985,67 @@
             "name": "ms-scroll",
             "children": [
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "ms-scroll-chaining",
                     "url": "http://docs.webplatform.org/wiki/css/properties/ms-scroll-chaining"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "ms-scroll-limit",
                     "url": "http://docs.webplatform.org/wiki/css/properties/ms-scroll-limit"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "ms-scroll-limit-xMax",
                     "url": "http://docs.webplatform.org/wiki/css/properties/ms-scroll-limit-xMax"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "ms-scroll-limit-xMin",
                     "url": "http://docs.webplatform.org/wiki/css/properties/ms-scroll-limit-xMin"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "ms-scroll-limit-yMax",
                     "url": "http://docs.webplatform.org/wiki/css/properties/ms-scroll-limit-yMax"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "ms-scroll-limit-yMin",
                     "url": "http://docs.webplatform.org/wiki/css/properties/ms-scroll-limit-yMin"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "ms-scroll-rails",
                     "url": "http://docs.webplatform.org/wiki/css/properties/ms-scroll-rails"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "ms-scroll-snap-points-x",
                     "url": "http://docs.webplatform.org/wiki/css/properties/ms-scroll-snap-points-x"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "ms-scroll-snap-points-y",
                     "url": "http://docs.webplatform.org/wiki/css/properties/ms-scroll-snap-points-y"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "ms-scroll-snap-type",
                     "url": "http://docs.webplatform.org/wiki/css/properties/ms-scroll-snap-type"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "ms-scroll-snap-x",
                     "url": "http://docs.webplatform.org/wiki/css/properties/ms-scroll-snap-x"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "ms-scroll-snap-y",
                     "url": "http://docs.webplatform.org/wiki/css/properties/ms-scroll-snap-y"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "ms-scroll-translation",
                     "url": "http://docs.webplatform.org/wiki/css/properties/ms-scroll-translation"
                 }
@@ -1055,27 +1055,27 @@
             "name": "Outline",
             "children": [
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "outline",
                     "url": "http://docs.webplatform.org/wiki/css/properties/outline"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "outline-color",
                     "url": "http://docs.webplatform.org/wiki/css/properties/outline-color"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "outline-offset",
                     "url": "http://docs.webplatform.org/wiki/css/properties/outline-offset"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "outline-style",
                     "url": "http://docs.webplatform.org/wiki/css/properties/outline-style"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "outline-width",
                     "url": "http://docs.webplatform.org/wiki/css/properties/outline-width"
                 }
@@ -1085,27 +1085,27 @@
             "name": "Overflow",
             "children": [
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "overflow",
                     "url": "http://docs.webplatform.org/wiki/css/properties/overflow"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "overflow-style",
                     "url": "http://docs.webplatform.org/wiki/css/properties/overflow-style"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "overflow-wrap",
                     "url": "http://docs.webplatform.org/wiki/css/properties/overflow-wrap"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "overflow-x",
                     "url": "http://docs.webplatform.org/wiki/css/properties/overflow-x"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "overflow-y",
                     "url": "http://docs.webplatform.org/wiki/css/properties/overflow-y"
                 }
@@ -1115,52 +1115,52 @@
             "name": "Margins and Padding",
             "children": [
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "margin",
                     "url": "http://docs.webplatform.org/wiki/css/properties/margin"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "margin-bottom",
                     "url": "http://docs.webplatform.org/wiki/css/properties/margin-bottom"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "margin-left",
                     "url": "http://docs.webplatform.org/wiki/css/properties/margin-left"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "margin-right",
                     "url": "http://docs.webplatform.org/wiki/css/properties/margin-right"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "margin-top",
                     "url": "http://docs.webplatform.org/wiki/css/properties/margin-top"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "padding",
                     "url": "http://docs.webplatform.org/wiki/css/properties/padding"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "padding-bottom",
                     "url": "http://docs.webplatform.org/wiki/css/properties/padding-bottom"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "padding-left",
                     "url": "http://docs.webplatform.org/wiki/css/properties/padding-left"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "padding-right",
                     "url": "http://docs.webplatform.org/wiki/css/properties/padding-right"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "padding-top",
                     "url": "http://docs.webplatform.org/wiki/css/properties/padding-top"
                 }
@@ -1170,17 +1170,17 @@
             "name": "page-break",
             "children": [
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "page-break-after",
                     "url": "http://docs.webplatform.org/wiki/css/properties/page-break-after"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "page-break-before",
                     "url": "http://docs.webplatform.org/wiki/css/properties/page-break-before"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "page-break-inside",
                     "url": "http://docs.webplatform.org/wiki/css/properties/page-break-inside"
                 }
@@ -1190,32 +1190,32 @@
             "name": "Regions and Shapes",
             "children": [
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "region-fragment",
                     "url": "http://docs.webplatform.org/wiki/css/properties/region-fragment"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "shape-image-threshold",
                     "url": "http://docs.webplatform.org/wiki/css/properties/shape-image-threshold"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "shape-inside",
                     "url": "http://docs.webplatform.org/wiki/css/properties/shape-inside"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "shape-margin",
                     "url": "http://docs.webplatform.org/wiki/css/properties/shape-margin"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "shape-outside",
                     "url": "http://docs.webplatform.org/wiki/css/properties/shape-outside"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "shape-padding",
                     "url": "http://docs.webplatform.org/wiki/css/properties/shape-padding"
                 }
@@ -1225,12 +1225,12 @@
             "name": "Ruby",
             "children": [
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "ruby-overhang",
                     "url": "http://docs.webplatform.org/wiki/css/properties/ruby-overhang"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "ruby-position",
                     "url": "http://docs.webplatform.org/wiki/css/properties/ruby-position"
                 }
@@ -1243,17 +1243,17 @@
                     "name": "Text Overflow",
                     "children": [
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-overflow",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-overflow"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-overflow-ellipsis",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-overflow-ellipsis"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-overflow-mode",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-overflow-mode"
                         }
@@ -1263,27 +1263,27 @@
                     "name": "Text Overline",
                     "children": [
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-overline",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-overline"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-overline-color",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-overline-color"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-overline-mode",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-overline-mode"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-overline-style",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-overline-style"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-overline-width",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-overline-width"
                         }
@@ -1293,22 +1293,22 @@
                     "name": "Text Underline",
                     "children": [
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-underline",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-underline"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-underline-position",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-underline-position"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-underline-style",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-underline-style"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-underline-width",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-underline-width"
                         }
@@ -1318,12 +1318,12 @@
                     "name": "Text Align",
                     "children": [
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-align",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-align"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-align-last",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-align-last"
                         }
@@ -1333,52 +1333,52 @@
                     "name": "Text Decoration",
                     "children": [
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-decoration",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-decoration-blink",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-blink"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-decoration-color",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-color"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-decoration-line",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-line"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-decoration-line-through",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-line-through"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-decoration-none",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-none"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-decoration-overline",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-overline"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-decoration-skip",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-skip"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-decoration-style",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-style"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-decoration-underline",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-decoration-underline"
                         }
@@ -1388,12 +1388,12 @@
                     "name": "Text Justify",
                     "children": [
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-justify",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-justify"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-justify-trim",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-justify-trim"
                         }
@@ -1403,12 +1403,12 @@
                     "name": "Unicode",
                     "children": [
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "unicode-bidi",
                             "url": "http://docs.webplatform.org/wiki/css/properties/unicode-bidi"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "unicode-range",
                             "url": "http://docs.webplatform.org/wiki/css/properties/unicode-range"
                         }
@@ -1418,17 +1418,17 @@
                     "name": "Text Emphasis",
                     "children": [
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-emphasis",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-emphasis"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-emphasis-color",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-emphasis-color"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-emphasis-style",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-emphasis-style"
                         }
@@ -1438,27 +1438,27 @@
                     "name": "Line Through",
                     "children": [
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-line-through",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-line-through"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-line-through-color",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-line-through-color"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-line-through-mode",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-line-through-mode"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-line-through-style",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-line-through-style"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-line-through-width",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-line-through-width"
                         }
@@ -1468,42 +1468,42 @@
                     "name": "Other Text Properties",
                     "children": [
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-autospace",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-autospace"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-height",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-height"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-indent",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-indent"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-kashida-space",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-kashida-space"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-rendering",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-rendering"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-script",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-script"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-shadow",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-shadow"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "text-transform",
                             "url": "http://docs.webplatform.org/wiki/css/properties/text-transform"
                         }
@@ -1515,82 +1515,285 @@
             "name": "Touch",
             "children": [
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "ms-touch-select",
                     "url": "http://docs.webplatform.org/wiki/css/properties/ms-touch-select"
                 },
                 {
-                    "size": 1000,
+                    "size": 500,
                     "name": "touch-action",
                     "url": "http://docs.webplatform.org/wiki/css/properties/touch-action"
                 }
             ]
         },
+        {
+            "name": "User",
+            "children": [
+                {
+                    "size": 500,
+                    "name": "user-focus",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/user-focus"
+                },
+                {
+                    "size": 500,
+                    "name": "user-input",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/user-input"
+                },
+                {
+                    "size": 500,
+                    "name": "user-modify",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/user-modify"
+                },
+                {
+                    "size": 500,
+                    "name": "user-select",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/user-select"
+                }
+            ]
+        },
+        {
+            "name": "Whitespace",
+            "children": [
+                {
+                    "size": 500,
+                    "name": "white-space",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/white-space"
+                },
+                {
+                    "size": 500,
+                    "name": "white-space-treatment",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/white-space-treatment"
+                }
+            ]
+        },
+        {
+            "name": "Word Properties",
+            "children": [
+                {
+                    "size": 500,
+                    "name": "word-break",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/word-break"
+                },
+                {
+                    "size": 500,
+                    "name": "word-break-inside",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/word-break-inside"
+                },
+                {
+                    "size": 500,
+                    "name": "word-spacing",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/word-spacing"
+                },
+                {
+                    "size": 500,
+                    "name": "word-wrap",
+                    "url": "http://docs.webplatform.org/wiki/css/properties/word-wrap"
+                },
+                {
+                    "name": "Flow",
+                    "children": [
                         {
+                            "size": 500,
+                            "name": "wrap-flow",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/wrap-flow"
+                        },
+                        {
+                            "size": 500,
+                            "name": "wrap-margin",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/wrap-margin"
+                        },
+                        {
+                            "size": 500,
+                            "name": "wrap-option",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/wrap-option"
+                        },
+                        {
+                            "size": 500,
+                            "name": "wrap-through",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/wrap-through"
+                        },
+                        {
+                            "size": 500,
+                            "name": "writing-mode",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/writing-mode"
+                        }
+                    ]
+                },
+                {
+                    "name": "Alignment",
+                    "children": [
+                        {
+                            "size": 500,
+                            "name": "align-content",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/align-content"
+                        },
+                        {
+                            "size": 500,
+                            "name": "align-items",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/align-items"
+                        },
+                        {
+                            "size": 500,
+                            "name": "align-self",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/align-self"
+                        },
+                        {
+                            "size": 500,
+                            "name": "alignment-adjust",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/alignment-adjust"
+                        },
+                        {
+                            "size": 500,
+                            "name": "alignment-baseline",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/alignment-baseline"
+                        }
+                    ]
+                },
+                {
+                    "name": "Animation",
+                    "children": [
+                        {
+                            "size": 500,
+                            "name": "animation",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/animation"
+                        },
+                        {
+                            "size": 500,
+                            "name": "animation-delay",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/animation-delay"
+                        },
+                        {
+                            "size": 500,
+                            "name": "animation-direction",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/animation-direction"
+                        },
+                        {
+                            "size": 500,
+                            "name": "animation-duration",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/animation-duration"
+                        },
+                        {
+                            "size": 500,
+                            "name": "animation-fill-mode",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/animation-fill-mode"
+                        },
+                        {
+                            "size": 500,
+                            "name": "animation-iteration-count",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/animation-iteration-count"
+                        },
+                        {
+                            "size": 500,
+                            "name": "animation-name",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/animation-name"
+                        },
+                        {
+                            "size": 500,
+                            "name": "animation-play-state",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/animation-play-state"
+                        },
+                        {
+                            "size": 500,
+                            "name": "animation-timing-function",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/animation-timing-function"
+                        }
+                    ]
+                },
+                {
+                    "name": "Alignment",
+                    "children": [
+                        {
+                            "size": 500,
+                            "name": "align-content",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/align-content"
+                        },
+                        {
+                            "size": 500,
+                            "name": "align-items",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/align-items"
+                        },
+                        {
+                            "size": 500,
+                            "name": "align-self",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/align-self"
+                        },
+                        {
+                            "size": 500,
+                            "name": "alignment-adjust",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/alignment-adjust"
+                        },
+                        {
+                            "size": 500,
+                            "name": "alignment-baseline",
+                            "url": "http://docs.webplatform.org/wiki/css/properties/alignment-baseline"
+                        }
+                    ]
+                },
+                {
                     "name": "Background",
                     "children": [
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "background",
                             "url": "http://docs.webplatform.org/wiki/css/properties/background"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "background-attachment",
                             "url": "http://docs.webplatform.org/wiki/css/properties/background-attachment"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "background-blend-mode",
                             "url": "http://docs.webplatform.org/wiki/css/properties/background-blend-mode"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "background-clip",
                             "url": "http://docs.webplatform.org/wiki/css/properties/background-clip"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "background-color",
                             "url": "http://docs.webplatform.org/wiki/css/properties/background-color"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "background-composite",
                             "url": "http://docs.webplatform.org/wiki/css/properties/background-composite"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "background-image",
                             "url": "http://docs.webplatform.org/wiki/css/properties/background-image"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "background-origin",
                             "url": "http://docs.webplatform.org/wiki/css/properties/background-origin"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "background-position",
                             "url": "http://docs.webplatform.org/wiki/css/properties/background-position"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "background-position-x",
                             "url": "http://docs.webplatform.org/wiki/css/properties/background-position-x"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "background-position-y",
                             "url": "http://docs.webplatform.org/wiki/css/properties/background-position-y"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "background-repeat",
                             "url": "http://docs.webplatform.org/wiki/css/properties/background-repeat"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "background-size",
                             "url": "http://docs.webplatform.org/wiki/css/properties/background-size"
                         }
@@ -1600,172 +1803,172 @@
                     "name": "Borders",
                     "children": [
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-bottom",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-bottom"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-bottom-color",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-bottom-color"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-bottom-left-radius",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-bottom-left-radius"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-bottom-right-radius",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-bottom-right-radius"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-bottom-style",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-bottom-style"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-bottom-width",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-bottom-width"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-collapse",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-collapse"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-color",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-color"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-corner-shape",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-corner-shape"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-image",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-image"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-image-outset",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-image-outset"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-image-repeat",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-image-repeat"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-image-slice",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-image-slice"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-image-source",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-image-source"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-image-width",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-image-width"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-left",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-left"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-left-color",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-left-color"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-left-style",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-left-style"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-left-width",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-left-width"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-radius",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-radius"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-right",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-right"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-right-color",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-right-color"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-right-style",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-right-style"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-right-width",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-right-width"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-spacing",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-spacing"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-style",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-style"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-top",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-top"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-top-color",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-top-color"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-top-left-radius",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-top-left-radius"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-top-right-radius",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-top-right-radius"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-top-style",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-top-style"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-top-width",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-top-width"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "border-width",
                             "url": "http://docs.webplatform.org/wiki/css/properties/border-width"
                         }
@@ -1775,77 +1978,77 @@
                     "name": "Positioning, and Sizing",
                     "children": [
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "bottom",
                             "url": "http://docs.webplatform.org/wiki/css/properties/bottom"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "height",
                             "url": "http://docs.webplatform.org/wiki/css/properties/height"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "left",
                             "url": "http://docs.webplatform.org/wiki/css/properties/left"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "min-height",
                             "url": "http://docs.webplatform.org/wiki/css/properties/min-height"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "max-height",
                             "url": "http://docs.webplatform.org/wiki/css/properties/max-height"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "max-width",
                             "url": "http://docs.webplatform.org/wiki/css/properties/max-width"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "min-width",
                             "url": "http://docs.webplatform.org/wiki/css/properties/min-width"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "right",
                             "url": "http://docs.webplatform.org/wiki/css/properties/right"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "ruby-align",
                             "url": "http://docs.webplatform.org/wiki/css/properties/ruby-align"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "top",
                             "url": "http://docs.webplatform.org/wiki/css/properties/top"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "vertical-align",
                             "url": "http://docs.webplatform.org/wiki/css/properties/vertical-align"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "visibility",
                             "url": "http://docs.webplatform.org/wiki/css/properties/visibility"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "width",
                             "url": "http://docs.webplatform.org/wiki/css/properties/width"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "z-index",
                             "url": "http://docs.webplatform.org/wiki/css/properties/z-index"
                         },
                         {
-                            "size": 1000,
+                            "size": 500,
                             "name": "position",
                             "url": "http://docs.webplatform.org/wiki/css/properties/position"
                         },
@@ -1963,129 +2166,6 @@
                             "size": 1000,
                             "name": "transition-timing-function",
                             "url": "http://docs.webplatform.org/wiki/css/properties/transition-timing-function"
-                        }
-                    ]
-                },
-                {
-                    "name": "Exclusions",
-                    "children": [
-                        {
-                            "size": 1000,
-                            "name": "wrap-flow",
-                            "url": "http://docs.webplatform.org/wiki/css/properties/wrap-flow"
-                        },
-                        {
-                            "size": 1000,
-                            "name": "wrap-margin",
-                            "url": "http://docs.webplatform.org/wiki/css/properties/wrap-margin"
-                        },
-                        {
-                            "size": 1000,
-                            "name": "wrap-option",
-                            "url": "http://docs.webplatform.org/wiki/css/properties/wrap-option"
-                        },
-                        {
-                            "size": 1000,
-                            "name": "wrap-through",
-                            "url": "http://docs.webplatform.org/wiki/css/properties/wrap-through"
-                        },
-                        {
-                            "size": 1000,
-                            "name": "writing-mode",
-                            "url": "http://docs.webplatform.org/wiki/css/properties/writing-mode"
-                        }
-                    ]
-                },
-                {
-            "name": "User",
-            "children": [
-                {
-                    "size": 1000,
-                    "name": "user-focus",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/user-focus"
-                },
-                {
-                    "size": 1000,
-                    "name": "user-input",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/user-input"
-                },
-                {
-                    "size": 1000,
-                    "name": "user-modify",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/user-modify"
-                },
-                {
-                    "size": 1000,
-                    "name": "user-select",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/user-select"
-                }
-            ]
-        },
-        {
-            "name": "Whitespace",
-            "children": [
-                {
-                    "size": 1000,
-                    "name": "white-space",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/white-space"
-                },
-                {
-                    "size": 1000,
-                    "name": "white-space-treatment",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/white-space-treatment"
-                }
-            ]
-        },
-        {
-            "name": "Word Properties",
-            "children": [
-                {
-                    "size": 1000,
-                    "name": "word-break",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/word-break"
-                },
-                {
-                    "size": 1000,
-                    "name": "word-break-inside",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/word-break-inside"
-                },
-                {
-                    "size": 1000,
-                    "name": "word-spacing",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/word-spacing"
-                },
-                {
-                    "size": 1000,
-                    "name": "word-wrap",
-                    "url": "http://docs.webplatform.org/wiki/css/properties/word-wrap"
-                },
-                {
-                    "name": "Alignment",
-                    "children": [
-                        {
-                            "size": 1000,
-                            "name": "align-content",
-                            "url": "http://docs.webplatform.org/wiki/css/properties/align-content"
-                        },
-                        {
-                            "size": 1000,
-                            "name": "align-items",
-                            "url": "http://docs.webplatform.org/wiki/css/properties/align-items"
-                        },
-                        {
-                            "size": 1000,
-                            "name": "align-self",
-                            "url": "http://docs.webplatform.org/wiki/css/properties/align-self"
-                        },
-                        {
-                            "size": 1000,
-                            "name": "alignment-adjust",
-                            "url": "http://docs.webplatform.org/wiki/css/properties/alignment-adjust"
-                        },
-                        {
-                            "size": 1000,
-                            "name": "alignment-baseline",
-                            "url": "http://docs.webplatform.org/wiki/css/properties/alignment-baseline"
                         }
                     ]
                 }
